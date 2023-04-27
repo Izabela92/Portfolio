@@ -34,6 +34,7 @@ Postgraduate Studies in Software Testing - Poznan College of Banking, Poznan, Po
 * Udemy – Python – From the Basics to the Expert
 * Udemy – ISTQB Foundation Level Certification Training for 2020 Exam
 * Udemy – Introduction to Databases and SQL Querying
+* W3schools - learn SQL
 * uTest Academy
 
 ## TECHNICAL BOOKS
