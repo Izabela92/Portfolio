@@ -72,3 +72,8 @@ Postgraduate Studies in Software Testing - Poznan College of Banking, Poznan, Po
 ### MYSQL
 
 * [SQL exercises](https://drive.google.com/file/d/1OXZKzUE2u1OAi-wu7coNoVa2n8crYUUT/view?usp=share_link)
+
+### PYTHON | SELENIUM WEBDRIVER
+* [Automation-Practice-Test](https://github.com/Izabela92/Automation-Practice-Test)
+* [AutomationExercise](https://github.com/Izabela92/AutomationExercise)
+* [SauceDemo](https://github.com/Izabela92/SauceDemo)
