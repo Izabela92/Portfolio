@@ -11,7 +11,7 @@ Motivated, detail-oriented Software Tester who offers excellent test planning an
 * For repository development: GitHub
 * Databases: SQL
 * Languages: Python
-* Testing: Selenium, CSS Selectors, XPATH
+* Testing: Selenium Webdriver, CSS Selectors, XPATH
 
 ## TECHNICAL SKILLS
 
