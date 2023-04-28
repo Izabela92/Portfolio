@@ -50,6 +50,7 @@ Postgraduate Studies in Software Testing - Poznan College of Banking, Poznan, Po
 * [testerzy.pl](http://testerzy.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 * [testelka.pl](https://testelka.pl)
+* [ministryoftesting.com](https://www.ministryoftesting.com)
 
 ## GROUPS
 
