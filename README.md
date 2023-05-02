@@ -79,6 +79,9 @@ Postgraduate Studies in Software Testing - Poznan College of Banking, Poznan, Po
 * [AutomationExercise](https://github.com/Izabela92/AutomationExercise)
 * [SauceDemo](https://github.com/Izabela92/SauceDemo)
 
+### [ZARA.COM](https://zara.com)
+* [Mindmap](https://drive.google.com/file/d/1Mzbq30TBeTnPStjrY9O6EQGn-mJtylEB/view?usp=share_link)
+
 ## MY BUG REPORTS
 
 * [YAZIO - application crush bug](https://drive.google.com/file/d/1lMlRWq-9C1IfM3NwhXxh6nELlLRT6BU5/view?usp=share_link)
