@@ -55,16 +55,16 @@ Postgraduate Studies in Software Testing - Poznan College of Banking, Poznan, Po
 ## GROUPS
 
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca)
-* [ISTQB certification help](https://www.facebook.com/groups/584982141686761)
 * [Testuj, dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
-* [QA Testers - job offers, oferty pracy, jobangebote, вакансії](https://www.facebook.com/groups/808752555920542)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
+* [ISTQB certification help](https://www.facebook.com/groups/584982141686761)
+* [QA Testers - job offers, oferty pracy, jobangebote, вакансії](https://www.facebook.com/groups/808752555920542)
 * [Quality Assurance and Process Excellence Jobs](https://www.facebook.com/groups/2646089732172170)
 * [Software testing jobs](https://www.facebook.com/groups/qatesterjobs)
 * [Performance testing tips and tricks](https://www.facebook.com/groups/1436864373213712)
 * [Manual testing](https://www.facebook.com/groups/848335268577087)
-* [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
 * [Software testing studio](https://www.facebook.com/groups/455568074797701)
 * [Software Quality Assurance](https://www.facebook.com/groups/171681142940285)
 
