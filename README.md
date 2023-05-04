@@ -7,7 +7,7 @@ Motivated, detail-oriented Software Tester who offers excellent test planning an
 
 ## TOOLS
 
-* For test management: Jira
+* For test management: Jira, TestLink
 * For repository development: GitHub
 * Databases: SQL
 * Languages: Python
