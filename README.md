@@ -79,8 +79,12 @@ Postgraduate Studies in Software Testing - Poznan College of Banking, Poznan, Po
 * [AutomationExercise](https://github.com/Izabela92/AutomationExercise)
 * [SauceDemo](https://github.com/Izabela92/SauceDemo)
 
+### TESTLINK
+* [Test Project, test suites, test cases](https://drive.google.com/file/d/1bi8OSYmOnBZy8rakvKRP9_T0X1MkjOkf/view?usp=share_link)
+
 ### [ZARA.COM](https://zara.com)
 * [Mindmap](https://drive.google.com/file/d/1Mzbq30TBeTnPStjrY9O6EQGn-mJtylEB/view?usp=share_link)
+* [Test Project, test suites, test cases](https://drive.google.com/file/d/1bi8OSYmOnBZy8rakvKRP9_T0X1MkjOkf/view?usp=share_link)
 
 ## MY BUG REPORTS
 
