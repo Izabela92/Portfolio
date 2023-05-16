@@ -89,4 +89,4 @@ Postgraduate Studies in Software Testing - Poznan College of Banking, Poznan, Po
 
 ## MY BUG REPORTS
 
-* [YAZIO - application crash bug](https://drive.google.com/file/d/1lMlRWq-9C1IfM3NwhXxh6nELlLRT6BU5/view?usp=share_link)
+* [YAZIO - application crash bug](https://drive.google.com/file/d/1zDWmKPzcFzaK1B0pYkIPZP7vz5YSAnW3/view?usp=share_link)
