@@ -43,6 +43,7 @@ Postgraduate Studies in Software Testing - Poznan College of Banking, Poznan, Po
 * Tester profession - R.Smilgin
 * ABCs of software testing - Waldemar Szafraniec, Dorota Gabor
 * Young tester's guide - Krzysztof Jadczyk
+* Foundations of software testing - Dorothy Graham, Erik van Veenendaal, Isabel Evans, Rex Black
 
 ## BLOGS
 
